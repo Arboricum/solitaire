@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 import Modal from './Modal'
-import Card from './card'
+import Card from './Card'
 import cards from '../assets/cards'
 import emptyCard from '../assets/empty.jpg'
 import questionCard from '../assets/question.jpg'
